@@ -4,7 +4,7 @@ paddleclas
 protobuf==3.20.3
 grpcio-status==1.48.0
 google-generativeai
-distutils 
+distutils==7.2.2 
 pandas
 streamlit
 
