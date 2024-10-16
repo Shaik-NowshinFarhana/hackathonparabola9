@@ -3,7 +3,7 @@ paddleocr
 paddleclas
 protobuf==3.20.3
 grpcio-status==1.48.0
--q google-generativeai
+google-generativeai
 google.generativeai
 pandas
 streamlit
