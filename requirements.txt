@@ -3,11 +3,9 @@ paddleocr
 paddleclas
 protobuf==3.20.3
 grpcio-status==1.48.0
-google-generativeai
-distutils==2.7.2.2 
+google-generativeai 
 pandas
 streamlit
-
 opencv-python-headless
 numpy
 Pillow
